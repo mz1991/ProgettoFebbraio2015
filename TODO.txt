@@ -3,3 +3,4 @@
 2-	Completare Stime
 3-	Completare vincoli non funzionali
 4-	Completare evoluzioni future
+5- 	rivedere parte ETL - data warehouse
