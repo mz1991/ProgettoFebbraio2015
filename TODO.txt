@@ -11,4 +11,8 @@
 copiare activity (pianifica spostamenti squadre)
 copiare activity (ricevi seg)
 
+8- Sistemare le viste GAV
+9- Slide 64/79/81/82/86/87
+10- Corsivi titoli
+
 
