@@ -4,3 +4,11 @@
 3-	Completare vincoli non funzionali
 4-	Completare evoluzioni future
 5- 	rivedere parte ETL - data warehouse
+
+
+6- casi d uso frecce
+7- copiare information model
+copiare activity (pianifica spostamenti squadre)
+copiare activity (ricevi seg)
+
+
